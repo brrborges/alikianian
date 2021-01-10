@@ -8,12 +8,13 @@ img{
 }
 </style>
 ## ALI KIANIAN
-#### Tehran-Iran · +989354024978
+#### Tehran-Iran 
+#### +989354024978
 #### ali.kianian1990@gmail.com
 
 
 
-### Personal Informations
+### Personal Information
 
 ---
 - I’m a C++ developer, working with Qt cross platform.

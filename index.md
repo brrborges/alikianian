@@ -9,8 +9,8 @@ img{
 </style>
 ## ALI KIANIAN
 #### Tehran-Iran 
-#### +989354024978
-#### ali.kianian1990@gmail.com
+#### +989354024978 - ali.kianian1990@gmail.com
+##### [Download Resume](alikianian.pdf)
 
 
 

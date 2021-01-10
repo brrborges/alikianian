@@ -24,8 +24,6 @@ img{
 - Mobile: +989354024978
 - Email: ali.kianian1990@gmail.com
 
-![ali kianian](kianian.jpg)
-
 ### EXPERIENCE
 
 ---

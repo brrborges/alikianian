@@ -7,17 +7,16 @@ img{
     height: 200px;
 }
 </style>
-## ALI KIANIAN
-
-
 
 
 ### Personal Information
 
 ---
-- Male
-- Married
-- Birthday:  07/25/1990
+
+| Nationality | Iranian |
+| Gender  |  Male |
+| Marital Status  | Married  |
+| Date of Birth  | 07/25/1990  |
 
 ### EXPERIENCE
 

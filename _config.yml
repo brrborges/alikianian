@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Ali Kianian
 description: C++ developer, working with Qt cross platform
 logo: kianian.jpg
-show_downloads: true
+show_downloads: false

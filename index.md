@@ -13,10 +13,10 @@ img{
 
 ---
 
-| Nationality | Iranian |
-| Gender  |  Male |
-| Marital Status  | Married  |
-| Date of Birth  | 07/25/1990  |
+| **Nationality** | Iranian |
+| **Gender**  |  Male |
+| **Marital Status**  | Married  |
+| **Date of Birth**  | 07/25/1990  |
 
 ### EXPERIENCE
 

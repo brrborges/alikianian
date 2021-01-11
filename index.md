@@ -14,8 +14,6 @@ img{
 
 
 
-I’m a C++ developer, working with Qt cross platform.
-
 ### Personal Information
 
 ---
@@ -65,7 +63,7 @@ I’m a C++ developer, working with Qt cross platform.
 - C++
 - ARM uVision
 - Proteus
-- Altium Design
+- Altium Designer
 - Qt Cross platform – Widget application
 - Qt – QML
 - QCustomPlot

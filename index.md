@@ -15,11 +15,9 @@ img{
 ### Personal Information
 
 ---
-- Gender: Male
+- Male
 - Married
 - Birthday:  07/25/1990
-- Mobile: +989354024978
-- Email: ali.kianian1990@gmail.com
 
 ### EXPERIENCE
 

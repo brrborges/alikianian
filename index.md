@@ -14,7 +14,7 @@ img{
 
 
 
-- I’m a C++ developer, working with Qt cross platform.
+I’m a C++ developer, working with Qt cross platform.
 
 ### Personal Information
 

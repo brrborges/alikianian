@@ -14,10 +14,11 @@ img{
 
 
 
+- I’m a C++ developer, working with Qt cross platform.
+
 ### Personal Information
 
 ---
-- I’m a C++ developer, working with Qt cross platform.
 - Gender: Male
 - Married
 - Birthday:  07/25/1990

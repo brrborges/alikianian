@@ -25,17 +25,21 @@ img{
 
     **SOFTWARE DEVELOPER – SCRUM MASTER**
     
-    Developing user interfaces and applications for hardware control using defined protocols.
-    Optimizing and translating Matlab codes to C++ in order to have high performance operations.
-    Implementing classification algorithms in C++.
+    - Developing user interfaces and applications for hardware control using defined protocols.
+    - Optimizing and translating Matlab codes to C++ in order to have high performance operations.
+    - Implementing classification algorithms in C++.
+    - Working with real time and offline graphs using QCustomplot.
+    - Working on server/client based applications.
+    - Building several exclusive static and shared libraries for company.
+
 
 
 - *JUNE 2013 –  MAY 2014*
 
     **HARDWARE PROGRAMMER, QESHM VOLTAGE**
     
-    Designing development boards based on ATMega128 and ARM LPC1768 to control 5DOF robots.
-    Working on a vision robot to detect some particular shapes.
+    - Designing development boards based on ATMega128 and ARM LPC1768 to control 5DOF robots.
+    - Working on a vision robot to detect some particular shapes.
 
 
 ### EDUCATION
@@ -55,24 +59,43 @@ img{
 ### SKILLS
 
 ---
+**LANGUAGES AND PLATFORMS**
 - C++
-- ARM uVision
-- Proteus
-- Altium Designer
 - Qt Cross platform – Widget application
 - Qt – QML
-- QCustomPlot
-- MVC
-- Multi thread application (PThread and concurrent)
-- Thread-safe applications 
+- Javascript
+
+**DATABASE**
+- PostgreSQL
+- MongoDB
+- SQL
+- MySQL
+- AccessDB
+
+**HARDWARE AND ELECTRONIC BASE APPLICATIONS**
+- ARM uVision
+- AVR Code Vision
+- Proteus
+- Altium Designer	SOCKETS AND INTERFACES
 - Socket programming (TCP – UDP)
 - Serial port
 - Wireshark
-- Database (PostgreSQL – MongoDB – SQL – MySQL)
-- Modular programming
+
+**CODING SKILLS**
+- Multi thread application (PThread and concurrent)
+- Thread-safe applications
+- Modular programming 
+- MVC
 - Smart pointers
+- Regex
+
+**LIBRARIES**
 - Eigen library
-- Alglib library
+- Alglib
+- FFTW
+- QCustomPlot
+- Libmp3lame
+- libxl 
 
 
 

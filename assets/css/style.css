@@ -371,7 +371,9 @@ img {
 header {
  width:270px;
  float:left;
- -webkit-font-smoothing:subpixel-antialiased
+ -webkit-font-smoothing:subpixel-antialiased;
+ padding: 15px 3px 3px 10px;
+ background: #f9f9f9;
 }
 header ul {
  list-style:none;
